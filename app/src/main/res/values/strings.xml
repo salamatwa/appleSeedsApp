@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Product Store</string>
+    <string name="title_activity_item_view_on_web">ItemViewOnWebActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="test">test</string>
+    <string name="empty_content">No Data</string>
+    <string name="empty_history">No History</string>
+    <string name="history_title">history</string>
+</resources>
